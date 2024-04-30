@@ -57,6 +57,12 @@ up before she went to school would have been way more effective.
 ### 1. [Communication Contention](https://cwe.mitre.org/data/definitions/923.html)
 * The product establishes a communication channel to (or from) an endpoint for privileged or protected operations, but it does not properly ensure that it is communicating with the correct endpoint.
 * This could relate to this event with me setting up my alarms. Due to the lack of sleep and how tired I was, Thers a pretty good chance that I put the alarms for PM instead of AM, but no alarms went off at 7PM. Another possibility is that I somehow just imagined or dreamed that I put my alarms. The event that most makes sense is that I just went to the clock app and looked at my alarms, but didn't really turn on any alarms. I clearly did not properly ensure that the alarms were on, becasue I just can't remember me double checking or hearing them go off in the morning.
-
-### 2. [Resource Depletion]()
+### 2. [Resource Depletion](https://cwe.mitre.org/data/definitions/770.html)
+* The product allocates a reusable resource or group of resources on behalf of an actor without imposing any restrictions on the size or number of resources that can be allocated, in violation of the intended security policy for that actor.
+* In this case, the "resource" is the opportunity to take the final exam. The system (me) failed to properly allocate the resource (time for the exam) due to exhaustion. This led to me missing the final, which is a violation of the intended security policy (ensuring attendance at scheduled exams) and had significant consequences.
+### 3. [Mishandling of Critical Information](https://cwe.mitre.org/data/definitions/451.html)
+* The user interface (UI) does not properly represent critical information to the user, allowing the information - or its source - to be obscured or spoofed. This is often a component in phishing attacks.
+* In this case, the critical information is the date and time of the final exam. The user interface (the alarm clock) failed to properly represent this critical information to the user (me), leading to me missing the final. Possible scenarios:
+	* The alarm not clearly displaying the set alarm time.
+	* Me failing to clearly differentiate between AM and PM settings.
 
