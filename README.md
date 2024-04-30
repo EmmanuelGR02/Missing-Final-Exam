@@ -29,5 +29,27 @@ and I will be less experienced, which is crucial as software companies prioritiz
 when I told her I didn't wake up for my final)
 
 
-## **CPE**: cpe:/h:viviana:emmanuel:21.0
+## **CPE**: `cpe:/h:viviana:emmanuel:21.0`
+
+
+## **Threat Sources**
+* Work:
+	* Work was definitely a threat source. During the week, I usually go work early morning the days
+	I didn't have class, and then I went to my other job, which was done at night, and I end the day
+	by going to the gym. This left me with almost no time to study during the week.
+	Saturdays and Sundays I only work 4-8 hours early morning, leaving time to study the rest of the day.
+* Linear Algebra:
+	* The final for linear algebra was the main threat source. I had a D on the class, but the professor
+	said that if we get a 94 on the final, we get a A for the class, or if we get a 85 on the final,
+	we get a B for the class. I had to go super tryhard on studying 26 chapters. Saturday I 
+	decided not to pull an all-nighter, so I slept about 4 hours. I called off word Sunday 
+	so I could study all day and I did pull an all-nighter and did not stop studying until
+	12:30pm Monday when I had to the final (I got an 85!). After the exam I went to work
+	and got out at 9, then got home at 9:30 (definitely wasn't going to go to the gym).
+	I went over the class github for about 2 hours, put 2 alarms and fell asleep. Then I just
+	woke up at 10, with no memory of me hearing my alarms at all.
+	* I always hear my alarms (me deciding to snooze 10 times is a different story), but in this case
+	 I don't think putting more than 2 would have made a huge difference. Telling my sibling to wake me
+	up before she went to school would have been way more effective.
+* 
 
