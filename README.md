@@ -53,3 +53,10 @@ I don't think putting more than 2 would have made a huge difference. Telling my 
 up before she went to school would have been way more effective.
  
 
+## **NIST Standards and Relations**
+### 1. [Communication Contention](https://cwe.mitre.org/data/definitions/923.html)
+* The product establishes a communication channel to (or from) an endpoint for privileged or protected operations, but it does not properly ensure that it is communicating with the correct endpoint.
+* This could relate to this event with me setting up my alarms. Due to the lack of sleep and how tired I was, Thers a pretty good chance that I put the alarms for PM instead of AM, but no alarms went off at 7PM. Another possibility is that I somehow just imagined or dreamed that I put my alarms. The event that most makes sense is that I just went to the clock app and looked at my alarms, but didn't really turn on any alarms. I clearly did not properly ensure that the alarms were on, becasue I just can't remember me double checking or hearing them go off in the morning.
+
+### 2. [Resource Depletion]()
+
