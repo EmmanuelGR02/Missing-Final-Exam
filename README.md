@@ -10,3 +10,9 @@
 	* Less money saved for emergencies
 	* Potential failure to make bill payments 
 	* Smaller budget for basic needs like, groceries, clothes, gas, etc.
+
+### 2. Time
+* In terms of time, it could defenitely delay the year of my graduation, which directly affects the progression in my professional career.
+* I would need to keep working two jobs, and ask for more hours to be added into my schedules in order to pay for the tuition. This can affect my time management since I will still be taking other classes, giving me less time to focus on them. More work ours (to pay for the retake) = less time to focus on classes = potential of failing another class = repeat of cycle.
+
+
