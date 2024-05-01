@@ -68,12 +68,34 @@ up before she went to school would have been way more effective.
 
 
 ## **NIST Standards and Relations #2**
-### 1. [CWE 693 - Protecting Mechanism Failure](cwe.mitre.org/data/definitions/693.html)
+### 1. [CWE 693 - Protecting Mechanism Failure](https://cwe.mitre.org/data/definitions/693.html)
 * This weakness covers three distinct situations. A "missing" protection mechanism occurs when the application does not define any mechanism against a certain class of attack. An "insufficient" protection mechanism might provide some defenses - for example, against the most common atacks - but it does not protect against everything that is intended. Finally, an "ignored" mechanism occurs when a mechanism is available and in active use whithin the product, but the developer has not applied it in some code path.
 * In this event, the "protection mechanism" was my alarm clock being set to wake me up. In terms of the "protection mechanism failures"we have the following:
     * **Missing Mechanism**: `I did not set the alarm at all.`
     * **Insufficient Mechanism**: `The alarms were not enough to wake me up due to my exhaustion.`
     * **Ignored Mechanism**: `The alarm feature on my app works perfectly fine, but I just did not hear the alarms at all and didn't wake up.`
-### 2. [CWE 357 - Insufficient UI Warning of Dangerous Operation](cwe.mitre.org/data/definitions/357.html)
+### 2. [CWE 357 - Insufficient UI Warning of Dangerous Operation](https://cwe.mtre.org/data/definitions/357.html)
 * The user interface provides a warning to a user regarding dangerous sensitive operations, but the warning is not noticeable enough to warrant attention.
 * In this case, the "dangerous sensitive operation" was missing the final exam, and the "user interface" providing a "warning" is my alarms, which were not not noticed by me.
+
+## **Security Policy**
+* **Policy**
+    * The objective of this policy will be to effectively wake me up so I don't miss an important event.
+* **Required resources**
+    * Let's say that the problem was that I just didn't hear the alarms. I can fix this by connecting my phone to a speaker and turning it all the way up.
+    * I could also manage my time better. In this case I should have started studying for my linear algebra exam earlier, giving me more time to sleep.
+* **Implementation**
+    * Managing my time in order for me to have time to rest, and also connecting my phone to a speaker so that I can hear my alarms when they go off.
+* **Cost**
+    * The price of a speaker can vary, but lets say I get one that is $100.
+    * Managing my time to have enough time to study for finals could mean that I would need to have less work hours for a week or two, which could reduce my check by about $400.
+*   On a side note, about a year an a half ago I wanted to start waking up ealier to be more productive, so I make a "gun alarm" to help me wake up. Using an arduino and a gel bullet gun, I made a program to take an input of how long I wanted to sleep for (a timer) and when the timer hit 0, the gel gun would shoot me for a few seconds, stop, then shoot me again until I stood up to turn it off. It worked. 
+
+
+## **Conclusion**
+* In conclusion the event of me missing a final exam is very crucial to my personal, financial, and professional life.
+    * **Personal life**: `Less free time to do things I enjoy due to having to work more hours.`
+    * **Professional life**: `Late start to my career.`
+    * **Financial life**: `This event could potentially lead into me failing more classes in the future resulting in student debt, and just throwing money away by retaking classes.`
+* Although there was a bit of comedy in this assignemt, I am truly sorry for missing the final exam for your course. At the end of the day there is no excuse. You provided the date and time with plenty of time, and it was my responsaibility to show up. I am very grateful that you gave me the opportunity to pass the class by letting me take the final exam late. Thanks to you, I won't have to go through all of the consequeces talked about in this assignment. Once again, thank you so much, and I hope that my assignment meets your expectations.
+        
