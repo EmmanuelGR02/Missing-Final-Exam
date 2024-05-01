@@ -53,7 +53,7 @@ I don't think putting more than 2 would have made a huge difference. Telling my 
 up before she went to school would have been way more effective.
  
 
-## **NIST Standards and Relations**
+## **NIST Standards and Relations #1**
 ### 1. [Communication Contention](https://cwe.mitre.org/data/definitions/923.html)
 * The product establishes a communication channel to (or from) an endpoint for privileged or protected operations, but it does not properly ensure that it is communicating with the correct endpoint.
 * This could relate to this event with me setting up my alarms. Due to the lack of sleep and how tired I was, Thers a pretty good chance that I put the alarms for PM instead of AM, but no alarms went off at 7PM. Another possibility is that I somehow just imagined or dreamed that I put my alarms. The event that most makes sense is that I just went to the clock app and looked at my alarms, but didn't really turn on any alarms. I clearly did not properly ensure that the alarms were on, becasue I just can't remember me double checking or hearing them go off in the morning.
@@ -66,3 +66,14 @@ up before she went to school would have been way more effective.
 	* The alarm not clearly displaying the set alarm time.
 	* Me failing to clearly differentiate between AM and PM settings.
 
+
+## **NIST Standards and Relations #2**
+### 1. [CWE 693 - Protecting Mechanism Failure](cwe.mitre.org/data/definitions/693.html)
+* This weakness covers three distinct situations. A "missing" protection mechanism occurs when the application does not define any mechanism against a certain class of attack. An "insufficient" protection mechanism might provide some defenses - for example, against the most common atacks - but it does not protect against everything that is intended. Finally, an "ignored" mechanism occurs when a mechanism is available and in active use whithin the product, but the developer has not applied it in some code path.
+* In this event, the "protection mechanism" was my alarm clock being set to wake me up. In terms of the "protection mechanism failures"we have the following:
+    * **Missing Mechanism**: `I did not set the alarm at all.`
+    * **Insufficient Mechanism**: `The alarms were not enough to wake me up due to my exhaustion.`
+    * **Ignored Mechanism**: `The alarm feature on my app works perfectly fine, but I just did not hear the alarms at all and didn't wake up.`
+### 2. [CWE 357 - Insufficient UI Warning of Dangerous Operation](cwe.mitre.org/data/definitions/357.html)
+* The user interface provides a warning to a user regarding dangerous sensitive operations, but the warning is not noticeable enough to warrant attention.
+* In this case, the "dangerous sensitive operation" was missing the final exam, and the "user interface" providing a "warning" is my alarms, which were not not noticed by me.
